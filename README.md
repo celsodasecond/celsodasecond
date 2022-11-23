@@ -1,6 +1,6 @@
 [![MasterHead](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Celso del Castillo II</h1>
-<h3 align="center">An aspiring data scientist from the Philippines</h3>
+<h3 align="center">An aspiring software engineer from the Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 

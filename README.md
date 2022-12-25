@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Filipino Continuous Sign Language Recognition System**
+- 🔭 I’m currently working on **creating Personal Project and Gaining Experience from Internships**
 
-- 🌱 I’m currently learning **MERN Tech Stack and Data Analytics**
+- 🌱 I’m currently learning **Laravel and VueJs**
 
 - 💬 Ask me about **Database Administration**
 

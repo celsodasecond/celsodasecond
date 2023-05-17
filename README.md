@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **creating Personal Projects and Gaining Experience from Internships**
+- 🔭 I’m currently working on **my personal projects while looking for job opportunities**
 
-- 🌱 I’m currently learning **Laravel and VueJs**
+- 🌱 I’m currently learning **Spring and Spring Boot**
 
 - 💬 Ask me about **Database Administration**
 

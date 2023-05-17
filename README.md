@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Spring and Spring Boot**
 
-- 💬 Ask me about **Database Administration**
+- 💬 Ask me about **Web Development, Database Administration, AI/ML**
 
 - 📫 How to reach me **celsodelcastilloii@gmail.com**
 

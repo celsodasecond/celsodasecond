@@ -84,4 +84,9 @@
 
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celsodasecond&theme=radical" /> </p>
 
+<details> <summary> 📊 Wakatime Stats since 06/2023 </summary>
+<p><img align="center" src="https://wakatime.com/share/@bb557751-7fe1-4915-9cd5-b27a069f09de/3a1082ca-88d4-46e4-9a00-5e244b08bccd.svg" /> </p>
+<p><img align="center" src="https://wakatime.com/share/@bb557751-7fe1-4915-9cd5-b27a069f09de/ca09090c-9197-4fc7-9965-2bd3e8711b26.svg" /> </p>
+</details>
+
 

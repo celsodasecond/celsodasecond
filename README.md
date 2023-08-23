@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-- 🔭 I’m currently working in **the best, ___if not one of the best___, FinTech Companies here in the Philippines! 🟢**
+- 🔭 I’m currently working in **the best, ___if not one of the best___, FinTech Company here in the Philippines! 🟢**
 
 - 🌱 I’m currently learning **Spring and Spring Boot**
 

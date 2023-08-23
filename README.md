@@ -3,9 +3,10 @@
 <h1 align="center">Hi 👋, I'm Celso del Castillo II</h1>
 <h3 align="center">Just a Passionate Guy who Codes from the Philippines</h3>  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=celsodasecond&label=Profile%20views&color=blueviolet&style=flat" alt="celsodasecond" /> </p>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h6 align="right"> GIF taken from here:<br>https://www.pinterest.ph/pin/567523990538356835/</h6>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 
 - 🔭 I’m currently working in **the best, ___if not one of the best___, FinTech Companies here in the Philippines! 🟢**
 

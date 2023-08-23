@@ -1,14 +1,13 @@
 [![MasterHead](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Celso del Castillo II</h1>
-<h3 align="center">A Software Engineer from the Philippines</h3>
+<h3 align="center">Just a Passionate Guy who Codes from the Philippines</h3>  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=celsodasecond&label=Profile%20views&color=blueviolet&style=flat" alt="celsodasecond" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=celsodasecond&label=Profile%20views&color=blueviolet&style=flat" alt="celsodasecond" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **my personal projects while looking for job opportunities**
+- 🔭 I’m currently working on **the best, ___if not one of the best___, FinTech Companies here in the Philippines! 🟢**
 
 - 🌱 I’m currently learning **Spring and Spring Boot**
 
@@ -53,6 +52,7 @@
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 <h3 align="left">Databases:</h3>
 

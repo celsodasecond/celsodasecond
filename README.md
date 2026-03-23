@@ -1,23 +1,44 @@
 [![MasterHead](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Celso del Castillo II</h1>
-<h3 align="center">Just a Passionate Guy who Codes from the Philippines</h3>  
+<h3 align="center">Backend Software Engineer from the Philippines 🇵🇭</h3>
+
+<p align="center">
+Passionate about building scalable systems, clean architecture, and solving real-world problems through code.
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=celsodasecond&label=Profile%20views&color=blueviolet&style=flat" alt="celsodasecond" /> </p>
 
 <h6 align="right"> GIF taken from here:<br>https://www.pinterest.ph/pin/567523990538356835/</h6>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🧑‍💻 The repositories here are mainly created because of the following: wanting to learn something, pet projects, and trying something out.
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working in **the best, ___if not one of the best___, FinTech Company here in the Philippines! 🟢**
+- 🔧 Backend-focused Software Engineer specializing in **Java & Spring Boot**
+- 🏦 Experienced in building systems for **high-volume financial transactions**
+- ⚙️ Strong background in **microservices, event-driven architecture, and cloud technologies**
+- 🧠 Enjoy optimizing performance, refactoring systems, and improving reliability
+- 🌱 Currently exploring **system design, distributed systems, and advanced backend patterns**
 
-- 🌱 I’m currently learning **Spring and Spring Boot**
+---
 
-- 💬 Ask me about **Web Development, Database Administration, AI/ML**
+## 🚀 What You'll Find Here
 
-- 📫 How to reach me **celsodelcastilloii@gmail.com**
+Most of my repositories are:
+- 📚 Learning projects (trying new tech or concepts)
+- 🛠️ Backend-focused experiments
+- 💡 Small tools and automation ideas
+- 🧪 Proof of concepts (POCs)
+- Open Source Contributions
 
-- ⚡ Fun fact **I love to play musical instruments!**
+---
+
+## 💬 Ask Me About
+
+- Backend Development (Java, Spring Boot)
+- System Design & APIs
+- Performance Optimization
+- Databases (SQL / NoSQL)
+- Event-Driven Systems
 
 <hr>
 
@@ -28,10 +49,58 @@
 
 <hr>
 
-<h3 align="left">👩‍💻 Languages Known and Used:</h3>
+## 👨‍💻 Tech Stack
+
+### 🧩 Backend Engineering
+- Java (Enterprise Java, Java 21)
+- Spring Boot, Spring Cloud AWS
+- RESTful API Design & API Integrations
+- Microservices Architecture
+- Event-Driven Systems (Kafka, AWS SNS/SQS)
+- Distributed Systems & System Design
+
+### ⚙️ Performance & Reliability
+- Performance Optimization & Latency Reduction
+- SLO / SLA Management
+- Observability & Monitoring (Grafana, Dynatrace, Splunk)
+- Resiliency & Fault Tolerance
+- Secure Coding Practices
+
+### ☁️ Cloud & Infrastructure
+- Amazon Web Services (AWS)
+- Docker, Kubernetes
+- CI/CD Pipelines
+
+### 🗄️ Data & Messaging
+- SQL (PostgreSQL, MySQL)
+- NoSQL (MongoDB, Redis)
+- Apache Kafka
+- Databricks (Workflows, Jobs, Data Pipelines)
+
+### 🧪 Testing & Tools
+- JUnit, Mockito, WireMock
+- Maven, Gradle
+- Git
+- Liquibase
+- k9s
+
+### 🔄 Development Practices
+- Agile / Scrum
+- Test-Driven Development (TDD)
+- Domain-Driven Design (DDD)
+- Code Reviews & Mentorship
+- Cross-functional Collaboration
+
+### 🤖 Automation & Process Optimization
+- Workflow Automation
+- Business Process Automation (BPA)
+- API Automation
+- Data Processing & Ingestion Pipelines
+
+<!-- <h3 align="left">👩‍💻 Languages Known and Used:</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=blue)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -62,7 +131,7 @@
 <h4 align="left">Database Knowledge:</h4>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) -->
 
 <!-- <h3 align="left">For Data Analytics & Science:</h3>
 

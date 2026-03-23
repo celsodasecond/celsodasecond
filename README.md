@@ -19,8 +19,6 @@ Passionate about building scalable systems, clean architecture, and solving real
 - 🧠 Enjoy optimizing performance, refactoring systems, and improving reliability
 - 🌱 Currently exploring **system design, distributed systems, and advanced backend patterns**
 
----
-
 ## 🚀 What You'll Find Here
 
 Most of my repositories are:
@@ -29,8 +27,6 @@ Most of my repositories are:
 - 💡 Small tools and automation ideas
 - 🧪 Proof of concepts (POCs)
 - Open Source Contributions
-
----
 
 ## 💬 Ask Me About
 
@@ -147,6 +143,8 @@ Most of my repositories are:
 
 ![AS](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) -->
+
+---
 
 ## 📊 Profile Statistics
 
